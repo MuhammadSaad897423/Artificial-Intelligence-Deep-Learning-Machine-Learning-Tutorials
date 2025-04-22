@@ -28,3 +28,4 @@ jobs:
       run: |
         pip install pytest
         pytest
+    - name: Lint with flake8 updated
